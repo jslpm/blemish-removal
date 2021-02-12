@@ -1,4 +1,6 @@
 # Blemish removal
+Simple blemish removal
+
 With this program you can remove the blemish by simple clicking on the image. Then you can restart or save your results.
 
 ![output_example](output_example.gif)
